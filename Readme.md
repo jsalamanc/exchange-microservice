@@ -2,7 +2,8 @@
 
 API consturida con la arquitectura basada en microservicios con conexion TCP, para la conversion de monedas construida en Nest.js
 
-![image](https://github.com/user-attachments/assets/606c8df9-2ce5-4c1f-a9ee-15c7d9cc5127)
+![image](https://github.com/user-attachments/assets/053d9dd2-c2bc-4adf-9b83-896298e28006)
+
 
 ## client-gateway
 
